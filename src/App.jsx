@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import "./App.css";
 import placeholderheadshot from "./assets/headshot.jpg";
-import scrollbg from "./assets/scrollbg.jpg";
+// import scrollbg from "./assets/scrollbg.jpg";
 import arisepicture from "./assets/ariseaf.png";
 import resbookmark from "./assets/resbookmark.png";
 import todopic from "./assets/todopic.png";
