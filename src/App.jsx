@@ -1,12 +1,9 @@
 import { useState, useEffect } from "react";
 import "./App.css";
 import placeholderheadshot from "./assets/headshot.jpg";
-// import scrollbg from "./assets/scrollbg.jpg";
 import arisepicture from "./assets/ariseaf.png";
 import resbookmark from "./assets/resbookmark.png";
 import todopic from "./assets/todopic.png";
-// import doublebnobg from "./assets/doubleb-nobg.png";
-// import headshot from "./assets/headshot.jpg";
 import placeholder from "./assets/placeholder.jpg";
 import {
     FaLinkedin,
@@ -335,7 +332,7 @@ function App() {
                             className="headshot"
                             alt="headshot photo of developer Oklo Solomon"
                         />
-                    </div> */}
+                    </div>  */}
                     <h1 className="name">OKLO SOLOMON</h1>
                     <h2 className="title"></h2>
                     <button
